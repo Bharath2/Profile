@@ -20,5 +20,8 @@ We apply our model to a study region in Nebraska, generating high-resolution, cl
 MODIS, Landsat, Gap-Filling, Conditional Flow Matching
 
 ## AGU Session
-~~IN014: Automation and AI for Enhanced Data Management in Earth and Environmental Sciences~~ <br>
 IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and Advanced Technologies
+
+## Methodology
+
+![alt text](./assets/satFlow.png)
