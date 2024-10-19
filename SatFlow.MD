@@ -19,5 +19,6 @@ We apply our model to a study region in Nebraska, generating high-resolution, cl
 ## Keywords
 MODIS, Landsat, Gap-Filling, Conditional Flow Matching
 
-## Session
-IN014 - Automation and AI for Enhanced Data Management in Earth and Environmental Sciences
+## AGU Session
+~~IN014: Automation and AI for Enhanced Data Management in Earth and Environmental Sciences~~
+IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and Advanced Technologies
