@@ -14,6 +14,7 @@ I'm a researcher and developer specializing in remote sensing, machine learning,
 ## Links
 - [SatFlow Abstract](https://bharath2.github.io/Profile/SatFlow)
 - [NASA-CMS Poster](https://bharath2.github.io/Profile/assets/cms_poster_small.jpeg)
+- [GeoEPIC](https://smarsgroup.github.io/geoepic-docs/): A toolkit for geospatial crop simulations.
 
 ## Publications
 1. "Mid-season nitrogen management for winter wheat under price and weather uncertainty"
