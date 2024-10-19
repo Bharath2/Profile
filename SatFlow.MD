@@ -24,4 +24,4 @@ IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and
 
 ## Methodology
 
-![alt text](./assets/satFlow.png =250x)
+![alt text](./assets/satFlow.png)
