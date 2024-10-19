@@ -1,6 +1,8 @@
 # Bharath Irigireddy
  
- - [Personal Website](https://bharath2.github.io/Profile/)
+<!--- 
+- [Personal Website](https://bharath2.github.io/Profile/)
+-->
  - [LinkedIn](https://linkedin.com/in/bharathchandra02)
  - [GitHub](https://github.com/Bharath2)
  
