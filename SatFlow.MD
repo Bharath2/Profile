@@ -26,12 +26,12 @@ IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and
     <img src="./assets/archi.png" alt="Description" width="75%" height="auto">
 </div>
 
-## Gap Filling Inference
+## Capabilities
 <div style="text-align: center;">
     <img src="./assets/cap.png" alt="Description" width="50%" height="auto">
 </div>
 
-## Inference
+## Gap Filling Inference
 <div style="text-align: center;">
     <img src="./assets/inf.png" alt="Description" width="50%" height="auto">
 </div>
