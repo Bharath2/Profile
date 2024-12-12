@@ -22,15 +22,17 @@ MODIS, Landsat, Gap-Filling, Conditional Flow Matching
 ## AGU Session
 IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and Advanced Technologies
 
-## Capabilities
-
-![alt text](./assets/cap.png)
-
 ## SatFlow Architecture
+<div style="text-align: center;">
+    <img src="./assets/archi.png" alt="Description" width="50%" height="auto">
+</div>
 
-![alt text](./assets/archi.png)
+## Capabilities
+<div style="text-align: center;">
+    <img src="./assets/cap.png" alt="Description" width="50%" height="auto">
+</div>
 
 ## Model Inference
-
-![alt text](./assets/inf.png)
-
+<div style="text-align: center;">
+    <img src="./assets/inf.png" alt="Description" width="50%" height="auto">
+</div>
