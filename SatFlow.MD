@@ -1,5 +1,4 @@
-# SatFlow: A Generative Model based Framework for producing High-Resolution Cloud-free Remote Sensing Imagery
-
+# SatFlow: Flow based Generative Model for Producing High Resolution Gap Free Remote Sensing Imagery
 **Authors:** Bharath Irigireddy, Varaprasad Bandaru
 
 **Affiliation:** USDA-ARS, Maricopa, AZ
@@ -27,7 +26,7 @@ IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and
     <img src="./assets/archi.png" alt="Description" width="75%" height="auto">
 </div>
 
-## Capabilities
+## Gap Filling Inference
 <div style="text-align: center;">
     <img src="./assets/cap.png" alt="Description" width="50%" height="auto">
 </div>
