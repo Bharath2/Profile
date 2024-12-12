@@ -12,7 +12,7 @@ We present a deep learning model that predicts Landsat-like Surface reflectance 
 
 Previously, generative models such as GANs and DDPMs have been explored for cloud removal in satellite imagery. However, Conditional Flow Matching (CFM) provides a more robust framework for training generative models by matching conditional probability paths, resulting in enhanced stability and accuracy. Our model, trained using CFM, demonstrates effectiveness in generating imagery with preserved structural and spectral integrity.
 
-Cloud removal task is regarded as image inpainting during model inference. The model treats cloud-covered areas as missing data and utilizes the learned generative processes to fill in these gaps by leveraging both MODIS and Landsat data. Predictions from our technique demonstrated lower spectral information divergence and higher Structural Similarity (SSIM) scores compared to the ESTARFM algorithm when evaluated across various regions in the USA.
+Cloud removal task is regarded as image inpainting during model inference. The model treats cloud-covered areas as missing data and utilizes the learned generative processes to fill in these gaps by leveraging both MODIS and Landsat data. Predictions from our technique demonstrated lower spectral information divergence and higher Structural Similarity (SSIM) scores compared to the STARFM algorithm when evaluated across various regions in the USA.
 
 We apply our model to a study region in Nebraska, generating high-resolution, cloud-free surface reflectance at regular intervals during the agricultural crop growing season. This enabled reasonable estimation of indices like NDVI, highlighting the model's capability to deliver consistent, high-resolution data essential for effective environmental monitoring.
 
@@ -22,6 +22,15 @@ MODIS, Landsat, Gap-Filling, Conditional Flow Matching
 ## AGU Session
 IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and Advanced Technologies
 
-## Methodology
+## Capabilities
 
-![alt text](./assets/SatFLOW.png)
+![alt text](./assets/cap.png)
+
+## SatFlow Architecture
+
+![alt text](./assets/archi.png)
+
+## Model Inference
+
+![alt text](./assets/inf.png)
+
