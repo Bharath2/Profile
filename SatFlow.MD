@@ -32,7 +32,7 @@ IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and
 </div>
 
 
-## Producing Gap Free Surface Reflectance
+## Case Study: Producing Gap Free Surface Reflectance (-96.470, 41.165)
 <div style="text-align: center;">
     <img src="./assets/temp.gif" alt="Description" width="140%" height="auto">
 </div>
