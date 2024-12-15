@@ -10,7 +10,7 @@ High-resolution remote sensing imagery at regular intervals is crucial for agric
 ## Keywords
 MODIS, Landsat, Gap-Filling, Conditional Flow Matching
 
-## AGU 2024 Session
+## AGU24 Session
 IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and Advanced Technologies
 
 ## SatFlow Architecture
