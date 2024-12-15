@@ -34,5 +34,5 @@ IN21A: Accelerating the Model-Experiment Cycle Using Artificial Intelligence and
 
 ## Producing Gap Free Surface Reflectance
 <div style="text-align: center;">
-    <img src="./assets/temp.gif" alt="Description" width="70%" height="auto">
+    <img src="./assets/temp.gif" alt="Description" width="120%" height="auto">
 </div>
