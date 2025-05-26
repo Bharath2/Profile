@@ -14,9 +14,10 @@ I'm a researcher and developer specializing in remote sensing, machine learning,
 - Robotics: Perception and Planning for autonomous systems.
 
 ## Links
-- [SatFlow Abstract](https://bharath2.github.io/Profile/SatFlow)
+- [SatFlow ArXiv](https://arxiv.org/pdf/2502.01098): Generative Model for filling clouds and producing high resolution satellite imagery
 - [NASA-CMS Poster](https://bharath2.github.io/Profile/assets/cms_poster_small.jpeg)
 - [GeoEPIC](https://smarsgroup.github.io/geo_epic_win/): A toolkit for geospatial crop simulations.
+- [Autonomous Robot Youtube](https://www.youtube.com/watch?v=ga5EiHjVqwM)
 
 ## Publications
 1. "Mid-season nitrogen management for winter wheat under price and weather uncertainty"
