@@ -17,7 +17,8 @@ I'm a researcher and developer specializing in remote sensing, machine learning,
  
 ## Links
 - [SatFlow ArXiv](https://arxiv.org/pdf/2502.01098): Generative Model for filling clouds and producing high resolution satellite imagery
-- [NASA-CMS Poster](https://bharath2.github.io/Profile/assets/cms_poster_small.jpeg)
+- [NASA-CMS Poster](https://bharath2.github.io/Profile/assets/cms_poster_small.jpeg): Improving, Evaluating, and Extending Satellite-Based High Resolution 
+Cropland Carbon Monitoring System
 - [GeoEPIC](https://smarsgroup.github.io/geo_epic_win/): A toolkit for geospatial crop simulations.
 - [Autonomous Robot Youtube](https://www.youtube.com/watch?v=ga5EiHjVqwM)
 
