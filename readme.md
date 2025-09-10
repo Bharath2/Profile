@@ -29,8 +29,9 @@ I'm a researcher and developer specializing in remote sensing, machine learning,
    - DOI: [10.1016/j.atech.2024.100514](https://doi.org/10.1016/j.atech.2024.100514)
 
 3. "Crop type mapping in smallholder agricultural settings with Sentinel-1 time series analysis"
-   - Book Chapter, Springer Nature
+   - [Book Chapter] (https://www.taylorfrancis.com/chapters/edit/10.1201/9781003396253-13/crop-type-mapping-smallholder-agricultural-settings-using-sentinel-1-sar-imagery-deep-learning-sandeep-polavarapu-bharat-irigireddy-chaitanya-kulkarni-lan-song-pvnr-koutilya-varaprasad-bandaru?context=ubx), Remote Sensing of Land Cover and Land Use Changes in South and Southeast Asia
 
 ## GitHub Repositories
 - [Quadrotor Simulation](https://github.com/Bharath2/Quadrotor-Simulation)
 - [iLQR](https://github.com/Bharath2/iLQR)
+- [Minimal-GRPO](https://github.com/Bharath2/Minimal-GRPO)
