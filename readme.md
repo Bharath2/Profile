@@ -1,4 +1,5 @@
 # Bharath Irigireddy
+LinkedIn : [bharathchandra02](https://linkedin.com/in/bharathchandra02)  GitHub : [Bharath2](https://github.com/Bharath2)
 
 ## About Me
 I'm a researcher and developer specializing in remote sensing, machine learning, and robotics. My expertise spans across:
@@ -7,12 +8,6 @@ I'm a researcher and developer specializing in remote sensing, machine learning,
 - Machine Learning: Applying ML algorithms to solve complex environmental and agricultural challenges.
 - Robotics: Perception and Planning for autonomous systems.
 
- 
-<!--- 
-- [Personal Website](https://bharath2.github.io/Profile/)
--->
- - LinkedIn : [bharathchandra02](https://linkedin.com/in/bharathchandra02)
- - GitHub : [Bharath2](https://github.com/Bharath2)
 
  
 ## Links
